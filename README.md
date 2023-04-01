@@ -4,6 +4,7 @@
  
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Creator: Zameel](https://img.shields.io/badge/creator-Zameel-darkblue)](https://github.com/Zameel-Byte)
+[![Creator: Kprosoft](https://img.shields.io/badge/creator-HackaKPRO-darkred)](https://github.com/kprosoft)
 [![Creator: Subhash](https://img.shields.io/badge/creator-vijaysubhash-darkblue)](https://github.com/vijaysubhash)
 [![Creator: Naveen](https://img.shields.io/badge/creator-Naveen-darkblue)](https://github.com/Nawin14365)
 [![CodeFactor](https://www.codefactor.io/repository/github/just-innovative-bro/f.r.i.d.a.y/badge)](https://www.codefactor.io/repository/github/just-innovative-bro/f.r.i.d.a.y)
